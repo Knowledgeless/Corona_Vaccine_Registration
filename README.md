@@ -1,1 +1,1 @@
-# Corona_Vaccine_Rgistration
+# Corona_Vaccine_Registration
