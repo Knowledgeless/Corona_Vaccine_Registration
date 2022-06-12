@@ -8,5 +8,5 @@
     <h4><li>Will it send me email if my registration recorded successfully?</li></h4>
     <b>=></b>Nice Idea! I will look forword to it.<br><br>
     <h4><li>Is it going to call me to be vaccinated on that day I got by the code?</li></h4>
-    <b>=></b> No, f***ing dumb a**. It's code, not your girlfriend/boyfriend. You are still single and will die single.<br><br>
+    <b>=></b> No, f###ing dumb a##. It's code, not your girlfriend/boyfriend. You are still single and will die single.<br><br>
     <h5>HappyCoding..!</h5>
