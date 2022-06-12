@@ -1,7 +1,7 @@
 # Corona_Vaccine_Registration
 <br><br><br>
     <p>
-        I have tried to write a code about vaccine registration. There has lot of things predefined but code will pick them randomly. I have written this code/project during the pendamic situation. 
+        I have tried to write a code about vaccine registration. There has lot of things predefined but code will pick them randomly. I have written this code/project during the pendamic situation. This code will ask some question and will verify by own. After that it will record your information to be vaccinated into a csv file.<br>  
     </p>
     <h4><li>What are the features?</li></h4>
     <b>=></b> Lol, there are no features of course. Cause it has written on pure python code.<br>
